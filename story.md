@@ -1,4 +1,4 @@
-# The Story of Swift Select
+## The Story of Swift Select
 
 This is not my first Add-In, but it is my first majorly useful add-in. Here is the story. 
 
