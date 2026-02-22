@@ -1,7 +1,7 @@
 # Swift-Select
 Swift Select - A PowerPoint Add-In to give you FULL CONTROL in selecting items on your slide. {In Development Currently}
 
-##So what does FULL CONTROL mean?
+## So what does FULL CONTROL mean?
 * Select by fill color
 * Select by line color
 * Select if shape matches a font
