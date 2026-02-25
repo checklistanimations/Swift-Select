@@ -8,7 +8,9 @@ It was a simple concept. Make an add-in that will select all the same shape type
 
 I hit to reddit and showed the concept saying we need better selection tools. I was able to have some minimal conversation with some users including some really well known PowerPoint users. I took their feedback very seriously. I was even encouraged by another amazing developer to take a selection utility idea they made and to basically take it further. This type of support and motivation was all I needed to get started. 
 
+Now most of this code was written from previous tools that I use for my cartoons but that was such a minimal help because I needed to make sure this add-in would help actual PowerPoint users. I left a good amount of those tools in it but teal users need things that matter t like font.  Font? So all that are bold or a different color. Font family, size? This became huge because I wanted the. User to be able to select any combination of font but also the ability to only have rectangles with that font and such. It took an extensive amount of architecture. More than I had ever coded in vba before. 
 
+Fast forward to the time of writing this. The functions were all on the add-in but the thought of even adding anything else was so daunting and I was really not sure how I could get it to do everything. I completely restructured my code base that I had been writing for 2 months.  To be continued... 
 
 The actual tool sets have changed so much and by the time it was all decided. Practically every shape property can be usd for selecting items. I had it all figured out now I just need to code it out. 
 
